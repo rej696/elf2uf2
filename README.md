@@ -1,6 +1,6 @@
 # Raspberry Pi Pico elf2uf2 Utility
 
-DISCLAIMER: The code files in this repository are not my work, and have been
+__DISCLAIMER__: The code files in this repository are not my work, and have been
 produced by the [Raspberry Pi Foundation](https://github.com/raspberrypi)
 
 This repository copies code from the [Raspberry Pi Pico
