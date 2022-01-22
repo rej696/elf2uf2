@@ -1,5 +1,8 @@
 # Raspberry Pi Pico elf2uf2 Utility
 
+DISCLAIMER: The code files in this repository are not my work, and have been
+produced by the [Raspberry Pi Foundation](https://github.com/raspberrypi)
+
 This repository copies code from the [Raspberry Pi Pico
 SDK](https://github.com/raspberrypi/pico-sdk) for building the elf2uf2 utility.
 
