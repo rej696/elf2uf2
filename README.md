@@ -21,7 +21,7 @@ Clone the repo, (assuming you are using g++) compile the tool, and use it on
 your elf binary.
 
 ```bash
-git clone ...
+git clone https://github.com/rej696/elf2uf2.git
 make build # or run your native compiler command
 ./elf2uf2 <input ELF file> <output UF2 file>
 ```
